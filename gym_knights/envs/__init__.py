@@ -1,0 +1,1 @@
+from gym_knights.envs.knights_env import KnightsEnv
